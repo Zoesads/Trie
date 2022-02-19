@@ -1,8 +1,8 @@
-# Prefix tree
+# Trie
 ###### Written in [Lua](https://www.lua.org/)
 
-## What is a prefix tree?
-Read about prefix tree [here](https://en.wikipedia.org/wiki/Trie)
+## What is Trie?
+Read about Trie [here](https://en.wikipedia.org/wiki/Trie)
 
 ## Features 
 * 4 different operations:
